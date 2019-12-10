@@ -1,5 +1,5 @@
 {
-  "user": [
+  "user": {
       "user1": {"userID": "01",
         "firstName": "eme",
         "lastName": "egg",
@@ -81,6 +81,6 @@
         ]
 
     }
-  ]
+}
 
 }

@@ -1,9 +1,6 @@
 {
   "userID": "01",
-  "firstName": "eme",
-  "lastName": "egg",
-  "dob": "07/07/07",
-  "userName": "eme.egg",
+  "userName": "eggHead",
   "userImage": "http://example.image.com",
   "following": [
     "02", "03", "04", "05", "06", "07", "08", "09"

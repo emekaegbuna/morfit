@@ -1,86 +1,86 @@
 {
-  "user": {
-      "user1": {"userID": "01",
-        "firstName": "eme",
-        "lastName": "egg",
-        "dob": "07/07/07",
-        "userName": "eme.egg",
-        "userImage": "http://example.image.com",
-        "following": [
-          "02",
-          "03",
-          "04",
-          "05",
-          "06",
-          "07",
-          "08",
-          "09"
-        ],
-        "active": [
-          {
-            "activeID": "01",
-            "activeTitle": "stretch",
-            "activeImage": "http://sample.imaage.com",
-            "time": "04:00:00 01/01/2020",
-            "host": "01"
-          },
-          {
-            "activeID": "02",
-            "activeTitle": "speech",
-            "activeImage": "http://sample.imaage.com",
-            "time": "04:30:00 01/01/2020",
-            "host": "01"
-          },
-          {
-            "activeID": "03",
-            "activeTitle": "grind",
-            "activeImage": "http://sample.imaage.com",
-            "time": "04:45:00 01/01/2020",
-            "host": "01"
-          }
-        ]},
-      "user2": {
-        "userID": "02",
-        "firstName": "wew",
-        "lastName": "wezzz",
-        "dob": "01/02/01",
-        "userName": "wew.wezzz",
-        "userImage": "http://example.image.com",
-        "following": [
-          "01",
-          "03",
-          "04",
-          "05",
-          "06",
-          "07",
-          "08",
-          "09"
-        ],
-        "active": [
-          {
-            "activeID": "04",
-            "activeTitle": "stretch",
-            "activeImage": "http://sample.imaage.com",
-            "time": "04:00:00 01/01/2020",
-            "host": "01"
-          },
-          {
-            "activeID": "05",
-            "activeTitle": "speech",
-            "activeImage": "http://sample.imaage.com",
-            "time": "04:30:00 01/01/2020",
-            "host": "01"
-          },
-          {
-            "activeID": "06",
-            "activeTitle": "grind",
-            "activeImage": "http://sample.imaage.com",
-            "time": "04:45:00 01/01/2020",
-            "host": "01"
-          }
-        ]
-
+  "user": [
+    {
+      "userID": "01",
+      "firstName": "eme",
+      "lastName": "egg",
+      "dob": "07/07/07",
+      "userName": "eme.egg",
+      "userImage": "http://example.image.com",
+      "following": [
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ],
+      "active": [
+        {
+          "activeID": "01",
+          "activeTitle": "stretch",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:00:00 01/01/2020",
+          "host": "01"
+        },
+        {
+          "activeID": "02",
+          "activeTitle": "speech",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:30:00 01/01/2020",
+          "host": "01"
+        },
+        {
+          "activeID": "03",
+          "activeTitle": "grind",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:45:00 01/01/2020",
+          "host": "01"
+        }
+      ]
+    },
+    {
+      "userID": "02",
+      "firstName": "wew",
+      "lastName": "wezzz",
+      "dob": "01/02/01",
+      "userName": "wew.wezzz",
+      "userImage": "http://example.image.com",
+      "following": [
+        "01",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ],
+      "active": [
+        {
+          "activeID": "04",
+          "activeTitle": "stretch",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:00:00 01/01/2020",
+          "host": "01"
+        },
+        {
+          "activeID": "05",
+          "activeTitle": "speech",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:30:00 01/01/2020",
+          "host": "01"
+        },
+        {
+          "activeID": "06",
+          "activeTitle": "grind",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:45:00 01/01/2020",
+          "host": "01"
+        }
+      ]
     }
-}
-
+  ]
 }

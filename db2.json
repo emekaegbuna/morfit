@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "userID": 1,
+      "firstName": "eme",
+      "lastName": "egg",
+      "dob": "07/07/07",
+      "userName": "eme.egg",
+      "userImage": "http://example.image.com",
+      "following": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "active": [
+        {
+          "activeID": 1,
+          "activeTitle": "stretch",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:00:00 01/01/2020",
+          "host": 1
+        },
+        {
+          "activeID": 2,
+          "activeTitle": "speech",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:30:00 01/01/2020",
+          "host": 1
+        },
+        {
+          "activeID": 3,
+          "activeTitle": "grind",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:45:00 01/01/2020",
+          "host": 1
+        }
+      ]
+    },
+    {
+      "userID": 2,
+      "firstName": "wew",
+      "lastName": "wezzz",
+      "dob": "01/02/01",
+      "userName": "wew.wezzz",
+      "userImage": "http://example.image.com",
+      "following": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "active": [
+        {
+          "activeID": 4,
+          "activeTitle": "stretch",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:00:00 01/01/2020",
+          "host": 1
+        },
+        {
+          "activeID": 5,
+          "activeTitle": "speech",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:30:00 01/01/2020",
+          "host": 1
+        },
+        {
+          "activeID": 6,
+          "activeTitle": "grind",
+          "activeImage": "http://sample.imaage.com",
+          "time": "04:45:00 01/01/2020",
+          "host": 1
+        }
+      ]
+    }
+  ]
+}
